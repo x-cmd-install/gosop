@@ -5,7 +5,7 @@ about:
   head: da56891
   archived: false
   latestVersion: "v1.1.0"
-  collectedAt: 2026-09-07T05:12:41Z
+  collectedAt: 2026-09-07T19:13:00Z
 timeline:
   created: 2020-04-27
   lastCommit: 2025-07-31
@@ -81,7 +81,7 @@ total:
   commit: 91
 ---
 path: /home/runner/.x-repo/github.com/ProtonMail/gosop
-collectedAt: 2026-09-07T05:12:44Z
+collectedAt: 2026-09-07T19:13:02Z
 loc:
   Go:
     code: 1648
@@ -112,7 +112,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:12:47+00:00
+  collectedAt: 2026-09-07T19:13:04+00:00
   platform:
     darwin/arm64:
       name:  gosop-v1.1.0-darwin-arm64.tar.gz
