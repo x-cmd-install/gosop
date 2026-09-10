@@ -1,0 +1,321 @@
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: gosop
+  binnames:
+    - gosop
+  visiblename: gosop
+  version: 1.1.0
+  origversion: 1.1.0-3
+  status: newest
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - martin@mdosch.de
+  categories:
+    - utils
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: gosop
+  binnames:
+    - gosop
+  visiblename: gosop
+  version: 0.0~git20221115.92fc880
+  origversion: 0.0~git20221115.92fc880-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - martin@mdosch.de
+  categories:
+    - misc
+- repo: raspbian_stable
+  subrepo: main
+  srcname: gosop
+  binnames:
+    - gosop
+  visiblename: gosop
+  version: 1.1.0
+  origversion: 1.1.0-3
+  status: newest
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - martin@mdosch.de
+  categories:
+    - misc
+- repo: raspbian_testing
+  subrepo: main
+  srcname: gosop
+  binnames:
+    - gosop
+  visiblename: gosop
+  version: 1.1.0
+  origversion: 1.1.0-4
+  status: newest
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - martin@mdosch.de
+  categories:
+    - misc
+- repo: ubuntu_26_10
+  subrepo: stonking/universe
+  srcname: gosop
+  binnames:
+    - gosop
+  visiblename: gosop
+  version: 1.1.0
+  origversion: 1.1.0-3build1
+  status: newest
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - martin@mdosch.de
+  categories:
+    - universe/misc
+- repo: ubuntu_25_10
+  subrepo: questing/universe
+  srcname: gosop
+  binnames:
+    - gosop
+  visiblename: gosop
+  version: 1.1.0
+  origversion: 1.1.0-3
+  status: newest
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - martin@mdosch.de
+  categories:
+    - universe/misc
+- repo: ubuntu_26_04
+  subrepo: resolute/universe
+  srcname: gosop
+  binnames:
+    - gosop
+  visiblename: gosop
+  version: 1.1.0
+  origversion: 1.1.0-3build1
+  status: newest
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - martin@mdosch.de
+  categories:
+    - universe/misc
+- repo: arch
+  subrepo: extra
+  srcname: gosop
+  binname: gosop
+  visiblename: gosop
+  version: 1.1.0
+  origversion: 1.1.0-1
+  status: newest
+  summary: Stateless CLI for GopenPGP
+  licenses:
+    - MIT
+- repo: debian_12
+  subrepo: bookworm/main
+  srcname: gosop
+  binnames:
+    - gosop
+  visiblename: gosop
+  version: 0.0~git20221115.92fc880
+  origversion: 0.0~git20221115.92fc880-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - martin@mdosch.de
+  categories:
+    - misc
+- repo: debian_13
+  subrepo: trixie/main
+  srcname: gosop
+  binnames:
+    - gosop
+  visiblename: gosop
+  version: 1.1.0
+  origversion: 1.1.0-3
+  status: newest
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - martin@mdosch.de
+  categories:
+    - misc
+- repo: debian_14
+  subrepo: forky/main
+  srcname: gosop
+  binnames:
+    - gosop
+  visiblename: gosop
+  version: 1.1.0
+  origversion: 1.1.0-4
+  status: newest
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - martin@mdosch.de
+  categories:
+    - misc
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: gosop
+  binnames:
+    - gosop
+  visiblename: gosop
+  version: 1.1.0
+  origversion: 1.1.0-5
+  status: newest
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - martin@mdosch.de
+  categories:
+    - misc
+- repo: deepin_25
+  subrepo: community
+  srcname: gosop
+  binnames:
+    - gosop
+  visiblename: gosop
+  version: 1.1.0
+  origversion: 1.1.0-2
+  status: newest
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - martin@mdosch.de
+  categories:
+    - misc
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: gosop
+  binnames:
+    - gosop
+  visiblename: gosop
+  version: 1.1.0
+  origversion: 1.1.0-5
+  status: newest
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - martin@mdosch.de
+  categories:
+    - misc
+- repo: kali_rolling
+  subrepo: main
+  srcname: gosop
+  binnames:
+    - gosop
+  visiblename: gosop
+  version: 1.1.0
+  origversion: 1.1.0-4
+  status: newest
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - martin@mdosch.de
+  categories:
+    - misc
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: gosop
+  binname: gosop
+  visiblename: gosop
+  version: 1.1.0
+  origversion: 1.1.0-1
+  status: newest
+  summary: Stateless CLI for GopenPGP
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: gosop
+  binname: gosop
+  visiblename: gosop
+  version: 1.1.0
+  origversion: 1.1.0-1
+  status: newest
+  summary: Stateless CLI for GopenPGP
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: gosop
+  binname: gosop
+  visiblename: gosop
+  version: 1.1.0
+  origversion: 1.1.0-1
+  status: newest
+  summary: Stateless CLI for GopenPGP
+  licenses:
+    - MIT
+- repo: parabola
+  subrepo: extra
+  srcname: gosop
+  binname: gosop
+  visiblename: gosop
+  version: 1.1.0
+  origversion: 1.1.0-1
+  status: newest
+  summary: Stateless CLI for GopenPGP
+  licenses:
+    - MIT
+- repo: parrot
+  subrepo: parrot/main
+  srcname: gosop
+  binnames:
+    - gosop
+  visiblename: gosop
+  version: 1.1.0
+  origversion: 1.1.0-3
+  status: newest
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - martin@mdosch.de
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: gosop
+  binnames:
+    - gosop
+  visiblename: gosop
+  version: 1.1.0
+  origversion: 1.1.0-3
+  status: newest
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - martin@mdosch.de
+  categories:
+    - misc
+- repo: ubuntu_24_04
+  subrepo: noble-updates/universe
+  srcname: gosop
+  binnames:
+    - gosop
+  visiblename: gosop
+  version: 0.1.0
+  origversion: 0.1.0-3ubuntu0.24.04.3
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+    - martin@mdosch.de
+  categories:
+    - universe/misc
+- repo: ubuntu_24_04
+  subrepo: noble/universe
+  srcname: gosop
+  binnames:
+    - gosop
+  visiblename: gosop
+  version: 0.1.0
+  origversion: 0.1.0-3
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - martin@mdosch.de
+  categories:
+    - universe/misc
+- repo: ubuntu_25_04
+  subrepo: plucky/universe
+  srcname: gosop
+  binnames:
+    - gosop
+  visiblename: gosop
+  version: 1.1.0
+  origversion: 1.1.0-2
+  status: newest
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - martin@mdosch.de
+  categories:
+    - universe/misc
