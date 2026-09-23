@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5216785,
       "digest": null,
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2024-11-22T17:32:56Z",
       "updated_at": "2024-11-22T17:32:57Z",
       "browser_download_url": "https://github.com/ProtonMail/gosop/releases/download/v1.1.0/gosop-v1.1.0-darwin-amd64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 33,
       "digest": null,
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2024-11-22T17:32:58Z",
       "updated_at": "2024-11-22T17:32:58Z",
       "browser_download_url": "https://github.com/ProtonMail/gosop/releases/download/v1.1.0/gosop-v1.1.0-darwin-amd64.tar.gz.md5"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 4947312,
       "digest": null,
-      "download_count": 13,
+      "download_count": 14,
       "created_at": "2024-11-22T17:32:04Z",
       "updated_at": "2024-11-22T17:32:04Z",
       "browser_download_url": "https://github.com/ProtonMail/gosop/releases/download/v1.1.0/gosop-v1.1.0-darwin-arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 33,
       "digest": null,
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2024-11-22T17:32:05Z",
       "updated_at": "2024-11-22T17:32:05Z",
       "browser_download_url": "https://github.com/ProtonMail/gosop/releases/download/v1.1.0/gosop-v1.1.0-darwin-arm64.tar.gz.md5"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 5247342,
       "digest": null,
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2024-11-22T17:32:51Z",
       "updated_at": "2024-11-22T17:32:52Z",
       "browser_download_url": "https://github.com/ProtonMail/gosop/releases/download/v1.1.0/gosop-v1.1.0-freebsd-amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 33,
       "digest": null,
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2024-11-22T17:32:52Z",
       "updated_at": "2024-11-22T17:32:52Z",
       "browser_download_url": "https://github.com/ProtonMail/gosop/releases/download/v1.1.0/gosop-v1.1.0-freebsd-amd64.tar.gz.md5"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 4879414,
       "digest": null,
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2024-11-22T17:32:03Z",
       "updated_at": "2024-11-22T17:32:03Z",
       "browser_download_url": "https://github.com/ProtonMail/gosop/releases/download/v1.1.0/gosop-v1.1.0-freebsd-arm64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 33,
       "digest": null,
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2024-11-22T17:32:04Z",
       "updated_at": "2024-11-22T17:32:04Z",
       "browser_download_url": "https://github.com/ProtonMail/gosop/releases/download/v1.1.0/gosop-v1.1.0-freebsd-arm64.tar.gz.md5"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 5264852,
       "digest": null,
-      "download_count": 81,
+      "download_count": 83,
       "created_at": "2024-11-22T17:32:27Z",
       "updated_at": "2024-11-22T17:32:28Z",
       "browser_download_url": "https://github.com/ProtonMail/gosop/releases/download/v1.1.0/gosop-v1.1.0-linux-amd64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 33,
       "digest": null,
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2024-11-22T17:32:28Z",
       "updated_at": "2024-11-22T17:32:28Z",
       "browser_download_url": "https://github.com/ProtonMail/gosop/releases/download/v1.1.0/gosop-v1.1.0-linux-amd64.tar.gz.md5"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 4883961,
       "digest": null,
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2024-11-22T17:32:53Z",
       "updated_at": "2024-11-22T17:32:53Z",
       "browser_download_url": "https://github.com/ProtonMail/gosop/releases/download/v1.1.0/gosop-v1.1.0-linux-arm64.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 33,
       "digest": null,
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2024-11-22T17:32:53Z",
       "updated_at": "2024-11-22T17:32:54Z",
       "browser_download_url": "https://github.com/ProtonMail/gosop/releases/download/v1.1.0/gosop-v1.1.0-linux-arm64.tar.gz.md5"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 5237188,
       "digest": null,
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2024-11-22T17:32:05Z",
       "updated_at": "2024-11-22T17:32:05Z",
       "browser_download_url": "https://github.com/ProtonMail/gosop/releases/download/v1.1.0/gosop-v1.1.0-netbsd-amd64.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 33,
       "digest": null,
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2024-11-22T17:32:06Z",
       "updated_at": "2024-11-22T17:32:06Z",
       "browser_download_url": "https://github.com/ProtonMail/gosop/releases/download/v1.1.0/gosop-v1.1.0-netbsd-amd64.tar.gz.md5"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 4871783,
       "digest": null,
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2024-11-22T17:32:04Z",
       "updated_at": "2024-11-22T17:32:05Z",
       "browser_download_url": "https://github.com/ProtonMail/gosop/releases/download/v1.1.0/gosop-v1.1.0-netbsd-arm64.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 33,
       "digest": null,
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2024-11-22T17:32:05Z",
       "updated_at": "2024-11-22T17:32:05Z",
       "browser_download_url": "https://github.com/ProtonMail/gosop/releases/download/v1.1.0/gosop-v1.1.0-netbsd-arm64.tar.gz.md5"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 5245496,
       "digest": null,
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2024-11-22T17:32:53Z",
       "updated_at": "2024-11-22T17:32:53Z",
       "browser_download_url": "https://github.com/ProtonMail/gosop/releases/download/v1.1.0/gosop-v1.1.0-openbsd-amd64.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 33,
       "digest": null,
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2024-11-22T17:32:54Z",
       "updated_at": "2024-11-22T17:32:54Z",
       "browser_download_url": "https://github.com/ProtonMail/gosop/releases/download/v1.1.0/gosop-v1.1.0-openbsd-amd64.tar.gz.md5"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 4875984,
       "digest": null,
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2024-11-22T17:32:57Z",
       "updated_at": "2024-11-22T17:32:57Z",
       "browser_download_url": "https://github.com/ProtonMail/gosop/releases/download/v1.1.0/gosop-v1.1.0-openbsd-arm64.tar.gz"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 33,
       "digest": null,
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2024-11-22T17:32:58Z",
       "updated_at": "2024-11-22T17:32:58Z",
       "browser_download_url": "https://github.com/ProtonMail/gosop/releases/download/v1.1.0/gosop-v1.1.0-openbsd-arm64.tar.gz.md5"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 5313408,
       "digest": null,
-      "download_count": 38,
+      "download_count": 39,
       "created_at": "2024-11-22T17:32:08Z",
       "updated_at": "2024-11-22T17:32:09Z",
       "browser_download_url": "https://github.com/ProtonMail/gosop/releases/download/v1.1.0/gosop-v1.1.0-windows-amd64.zip"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 33,
       "digest": null,
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2024-11-22T17:32:09Z",
       "updated_at": "2024-11-22T17:32:09Z",
       "browser_download_url": "https://github.com/ProtonMail/gosop/releases/download/v1.1.0/gosop-v1.1.0-windows-amd64.zip.md5"
