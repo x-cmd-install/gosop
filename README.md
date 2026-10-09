@@ -14,11 +14,11 @@ x install gosop
 
 ## Code insight
 
-Total: **1,912** lines of code across **23** files in the top 5 languages.
+Total: **1,924** lines of code across **23** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 1,648 | 75 | 171 | 19 |
+| Go | 1,660 | 75 | 171 | 19 |
 | Sh | 252 | 3 | 50 | 1 |
 | Makefile | 12 | 0 | 4 | 1 |
 | Markdown | 0 | 96 | 15 | 2 |
@@ -31,7 +31,7 @@ Total: **1,912** lines of code across **23** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.1.0` (2024-11-22)
-- **Last commit**: 2025-07-31
+- **Last commit**: 2026-10-08
 - **Assets in release**: 22
 
 ## Popularity
@@ -40,18 +40,18 @@ Total: **1,912** lines of code across **23** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 2 · **Merged PRs**: 14 · **Open PRs**: 3 · **Closed issues**: 24 · **Open issues**: 5 · **Commits**: 91
+- **Releases**: 2 · **Merged PRs**: 15 · **Open PRs**: 2 · **Closed issues**: 24 · **Open issues**: 5 · **Commits**: 94
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-09 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-10 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last180d | 2026-04-11 | 0 | 0 | 1 | 1 | 0 | 0 |
-| 360d | 2025-10-13 | 0 | 0 | 1 | 1 | 1 | 0 |
-| last720d | 2024-10-18 | 2 | 7 | 3 | 3 | 3 | 25 |
+| 30d | 2026-09-09 | 0 | 0 | 0 | 0 | 0 | 2 |
+| last60d | 2026-08-10 | 0 | 0 | 0 | 0 | 0 | 2 |
+| 90d | 2026-07-11 | 0 | 1 | 0 | 0 | 0 | 2 |
+| last180d | 2026-04-12 | 0 | 1 | 0 | 1 | 0 | 2 |
+| 360d | 2025-10-14 | 0 | 1 | 0 | 1 | 1 | 2 |
+| last720d | 2024-10-19 | 2 | 8 | 2 | 3 | 3 | 28 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for gosop lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T06:28:45Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T06:27:27Z._
