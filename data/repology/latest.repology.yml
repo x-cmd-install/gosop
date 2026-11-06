@@ -1,3 +1,31 @@
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: gosop
+  binnames:
+    - gosop
+  visiblename: gosop
+  version: 1.1.0
+  origversion: 1.1.0-3
+  status: newest
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - martin@mdosch.de
+  categories:
+    - misc
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: gosop
+  binnames:
+    - gosop
+  visiblename: gosop
+  version: 1.1.0
+  origversion: 1.1.0-3
+  status: newest
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - martin@mdosch.de
+  categories:
+    - utils
 - repo: arch
   subrepo: extra
   srcname: gosop
@@ -65,6 +93,20 @@
     - martin@mdosch.de
   categories:
     - misc
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: gosop
+  binnames:
+    - gosop
+  visiblename: gosop
+  version: 1.1.0
+  origversion: 1.1.0-9
+  status: newest
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - martin@mdosch.de
+  categories:
+    - misc
 - repo: deepin_25
   subrepo: community
   srcname: gosop
@@ -86,7 +128,7 @@
     - gosop
   visiblename: gosop
   version: 1.1.0
-  origversion: 1.1.0-8
+  origversion: 1.1.0-9
   status: newest
   maintainers:
     - team+pkg-go@tracker.debian.org
@@ -143,34 +185,6 @@
     - martin@mdosch.de
   categories:
     - misc
-- repo: parrot
-  subrepo: parrot-updates/main
-  srcname: gosop
-  binnames:
-    - gosop
-  visiblename: gosop
-  version: 1.1.0
-  origversion: 1.1.0-3
-  status: newest
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - martin@mdosch.de
-  categories:
-    - misc
-- repo: pureos_landing
-  subrepo: landing/main
-  srcname: gosop
-  binnames:
-    - gosop
-  visiblename: gosop
-  version: 1.1.0
-  origversion: 1.1.0-3
-  status: newest
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - martin@mdosch.de
-  categories:
-    - utils
 - repo: raspbian_oldstable
   subrepo: main
   srcname: gosop
@@ -214,20 +228,6 @@
   categories:
     - misc
 - repo: ubuntu_24_04
-  subrepo: noble/universe
-  srcname: gosop
-  binnames:
-    - gosop
-  visiblename: gosop
-  version: 0.1.0
-  origversion: 0.1.0-3
-  status: outdated
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - martin@mdosch.de
-  categories:
-    - universe/misc
-- repo: ubuntu_24_04
   subrepo: noble-updates/universe
   srcname: gosop
   binnames:
@@ -238,6 +238,20 @@
   status: outdated
   maintainers:
     - ubuntu-devel-discuss@lists.ubuntu.com
+    - martin@mdosch.de
+  categories:
+    - universe/misc
+- repo: ubuntu_24_04
+  subrepo: noble/universe
+  srcname: gosop
+  binnames:
+    - gosop
+  visiblename: gosop
+  version: 0.1.0
+  origversion: 0.1.0-3
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
     - martin@mdosch.de
   categories:
     - universe/misc
