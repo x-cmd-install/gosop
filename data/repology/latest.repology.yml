@@ -1,31 +1,17 @@
-- repo: parrot
-  subrepo: parrot-updates/main
+- repo: ubuntu_26_04
+  subrepo: resolute/universe
   srcname: gosop
   binnames:
     - gosop
   visiblename: gosop
   version: 1.1.0
-  origversion: 1.1.0-3
+  origversion: 1.1.0-3build1
   status: newest
   maintainers:
     - team+pkg-go@tracker.debian.org
     - martin@mdosch.de
   categories:
-    - misc
-- repo: pureos_landing
-  subrepo: landing/main
-  srcname: gosop
-  binnames:
-    - gosop
-  visiblename: gosop
-  version: 1.1.0
-  origversion: 1.1.0-3
-  status: newest
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - martin@mdosch.de
-  categories:
-    - utils
+    - universe/misc
 - repo: arch
   subrepo: extra
   srcname: gosop
@@ -37,6 +23,20 @@
   summary: Stateless CLI for GopenPGP
   licenses:
     - MIT
+- repo: ubuntu_25_10
+  subrepo: questing/universe
+  srcname: gosop
+  binnames:
+    - gosop
+  visiblename: gosop
+  version: 1.1.0
+  origversion: 1.1.0-3
+  status: newest
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - martin@mdosch.de
+  categories:
+    - universe/misc
 - repo: debian_12
   subrepo: bookworm/main
   srcname: gosop
@@ -67,20 +67,6 @@
     - misc
 - repo: debian_14
   subrepo: forky/main
-  srcname: gosop
-  binnames:
-    - gosop
-  visiblename: gosop
-  version: 1.1.0
-  origversion: 1.1.0-8
-  status: newest
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - martin@mdosch.de
-  categories:
-    - misc
-- repo: debian_unstable
-  subrepo: sid/main
   srcname: gosop
   binnames:
     - gosop
@@ -149,6 +135,28 @@
     - martin@mdosch.de
   categories:
     - misc
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: gosop
+  binname: gosop
+  visiblename: gosop
+  version: 1.1.0
+  origversion: 1.1.0-1
+  status: newest
+  summary: Stateless CLI for GopenPGP
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: gosop
+  binname: gosop
+  visiblename: gosop
+  version: 1.1.0
+  origversion: 1.1.0-1
+  status: newest
+  summary: Stateless CLI for GopenPGP
+  licenses:
+    - MIT
 - repo: manjaro_unstable
   subrepo: extra
   srcname: gosop
@@ -185,6 +193,34 @@
     - martin@mdosch.de
   categories:
     - misc
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: gosop
+  binnames:
+    - gosop
+  visiblename: gosop
+  version: 1.1.0
+  origversion: 1.1.0-3
+  status: newest
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - martin@mdosch.de
+  categories:
+    - misc
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: gosop
+  binnames:
+    - gosop
+  visiblename: gosop
+  version: 1.1.0
+  origversion: 1.1.0-3
+  status: newest
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - martin@mdosch.de
+  categories:
+    - utils
 - repo: raspbian_oldstable
   subrepo: main
   srcname: gosop
@@ -228,20 +264,6 @@
   categories:
     - misc
 - repo: ubuntu_24_04
-  subrepo: noble-updates/universe
-  srcname: gosop
-  binnames:
-    - gosop
-  visiblename: gosop
-  version: 0.1.0
-  origversion: 0.1.0-3ubuntu0.24.04.3
-  status: outdated
-  maintainers:
-    - ubuntu-devel-discuss@lists.ubuntu.com
-    - martin@mdosch.de
-  categories:
-    - universe/misc
-- repo: ubuntu_24_04
   subrepo: noble/universe
   srcname: gosop
   binnames:
@@ -252,6 +274,20 @@
   status: outdated
   maintainers:
     - team+pkg-go@tracker.debian.org
+    - martin@mdosch.de
+  categories:
+    - universe/misc
+- repo: ubuntu_24_04
+  subrepo: noble-updates/universe
+  srcname: gosop
+  binnames:
+    - gosop
+  visiblename: gosop
+  version: 0.1.0
+  origversion: 0.1.0-3ubuntu0.24.04.3
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
     - martin@mdosch.de
   categories:
     - universe/misc
@@ -269,22 +305,8 @@
     - martin@mdosch.de
   categories:
     - universe/misc
-- repo: ubuntu_25_10
-  subrepo: questing/universe
-  srcname: gosop
-  binnames:
-    - gosop
-  visiblename: gosop
-  version: 1.1.0
-  origversion: 1.1.0-3
-  status: newest
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - martin@mdosch.de
-  categories:
-    - universe/misc
-- repo: ubuntu_26_04
-  subrepo: resolute/universe
+- repo: ubuntu_26_10
+  subrepo: stonking/universe
   srcname: gosop
   binnames:
     - gosop
@@ -297,8 +319,8 @@
     - martin@mdosch.de
   categories:
     - universe/misc
-- repo: ubuntu_26_10
-  subrepo: stonking/universe
+- repo: ubuntu_27_04
+  subrepo: tenacious/universe
   srcname: gosop
   binnames:
     - gosop
