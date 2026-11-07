@@ -46,12 +46,12 @@ Total: **1,924** lines of code across **23** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-07 | 0 | 0 | 0 | 0 | 0 | 2 |
-| 90d | 2026-08-08 | 0 | 0 | 0 | 0 | 0 | 2 |
-| last180d | 2026-05-10 | 0 | 1 | 0 | 1 | 0 | 2 |
-| 360d | 2025-11-11 | 0 | 1 | 0 | 1 | 0 | 2 |
-| last720d | 2024-11-16 | 1 | 4 | 2 | 3 | 3 | 18 |
+| 30d | 2026-10-08 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-08 | 0 | 0 | 0 | 0 | 0 | 2 |
+| 90d | 2026-08-09 | 0 | 0 | 0 | 0 | 0 | 2 |
+| last180d | 2026-05-11 | 0 | 1 | 0 | 1 | 0 | 2 |
+| 360d | 2025-11-12 | 0 | 1 | 0 | 1 | 0 | 2 |
+| last720d | 2024-11-17 | 1 | 4 | 2 | 3 | 3 | 18 |
 
 ## Release assets
 
@@ -82,7 +82,7 @@ Total: **1,924** lines of code across **23** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **23** distros on [repology.org](https://repology.org/project/gosop). **19** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+Reported by **25** distros on [repology.org](https://repology.org/project/gosop). **21** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -102,4 +102,4 @@ Install metadata for gosop lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:15:21Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:39:35Z._
