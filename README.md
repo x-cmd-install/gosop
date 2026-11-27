@@ -46,12 +46,12 @@ Total: **1,924** lines of code across **23** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-27 | 0 | 0 | 0 | 0 | 0 | 2 |
-| 90d | 2026-08-28 | 0 | 0 | 0 | 0 | 0 | 2 |
-| last180d | 2026-05-30 | 0 | 1 | 0 | 1 | 0 | 2 |
-| 360d | 2025-12-01 | 0 | 1 | 0 | 1 | 0 | 2 |
-| last720d | 2024-12-06 | 0 | 2 | 2 | 2 | 2 | 6 |
+| 30d | 2026-10-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-28 | 0 | 0 | 0 | 0 | 0 | 2 |
+| 90d | 2026-08-29 | 0 | 0 | 0 | 0 | 0 | 2 |
+| last180d | 2026-05-31 | 0 | 1 | 0 | 0 | 0 | 2 |
+| 360d | 2025-12-02 | 0 | 1 | 0 | 1 | 0 | 2 |
+| last720d | 2024-12-07 | 0 | 2 | 2 | 2 | 2 | 6 |
 
 ## Release assets
 
@@ -80,19 +80,6 @@ Total: **1,924** lines of code across **23** files in the top 5 languages.
 | [gosop-v1.1.0-windows-amd64.zip](https://github.com/ProtonMail/gosop/releases/download/v1.1.0/gosop-v1.1.0-windows-amd64.zip) | 5.1 MiB | `native/win/x64` |
 | [gosop-v1.1.0-windows-amd64.zip.md5](https://github.com/ProtonMail/gosop/releases/download/v1.1.0/gosop-v1.1.0-windows-amd64.zip.md5) | 33 B | `native/win/x64` |
 
-## Distribution status
-
-Reported by **26** distros on [repology.org](https://repology.org/project/gosop). **22** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `1.1.0` | ✅ latest |
-| Debian 14 | `1.1.0` | ✅ latest |
-| Debian 13 | `1.1.0` | ✅ latest |
-| Ubuntu 26.04 LTS | `1.1.0` | ✅ latest |
-| Ubuntu 24.04 LTS | `0.1.0` | ⚠️ outdated |
-| Arch | `1.1.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for gosop lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `gosop` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -102,4 +89,4 @@ Install metadata for gosop lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T09:20:30Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T09:40:08Z._
